@@ -102,7 +102,7 @@ Here are the course summary as its given on the course [link](https://www.course
   | ---------- | --------- | ------ |
   | A          | 95%       | 90%    |
   | B          | 98%       | 85%    |
-- A better thing is to combine precision and recall in one single (real) number evaluation metric. There a metric called `F1` score, which combines them
+- A better thing is to combine precision and recall in one single (real) number evaluation metric. There is a metric called `F1` score, which combines them
   - You can think of `F1` score as an average of precision and recall
     `F1 = 2 / ((1/P) + (1/R))`
 
